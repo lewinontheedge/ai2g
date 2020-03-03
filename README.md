@@ -1,3 +1,9 @@
+## Welcome to AI2G
+
+This is the webhosting environment for my research project AI2G (Global Governance of Artificial Intelligence). 
+
+To access the project homepage, [click here](https://lewinontheedge.github.io/ai2g/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lewinontheedge/ai2g/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
